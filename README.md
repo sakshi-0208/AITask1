@@ -5,19 +5,18 @@ StyleHub Fashion Store Chatbot
 
 
 3. Features
-- Browse fashion categories (Men, Women, Kids)
-- Search products
-- Add and remove items from cart
-- View cart items
-- Calculate total bill
-- View offers
-- Checkout system
+   1)Browse fashion categories (Men, Women, Kids)
+   2)Search products
+   3)Add and remove items from cart
+   4)View cart items
+   5)Calculate total bill
+   6)Checkout system
 
 
 3. Technologies Used
-- Python
-- Conditional statements (if-elif-else)
-- Lists and dictionaries
+   1)Python
+   2)Conditional statements (if-elif-else)
+   3)Lists and dictionaries
 
 
 Author:
