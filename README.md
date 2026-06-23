@@ -4,7 +4,8 @@ StyleHub Fashion Store Chatbot
    This is a simple rule-based chatbot built using Python that simulates an online fashion shopping       experience. It allows users to browse clothing items, search products, add/remove items from cart,     view bill, and place orders.
 
 
-3. Features
+2. Features
+   
    1)Browse fashion categories (Men, Women, Kids)
    
    2)Search products
@@ -19,6 +20,7 @@ StyleHub Fashion Store Chatbot
 
 
 3. Technologies Used
+   
    1)Python
    
    2)Conditional statements (if-elif-else)
