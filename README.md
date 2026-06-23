@@ -16,3 +16,6 @@ This is a simple rule-based chatbot built using Python that simulates an online 
 - Python
 - Conditional statements (if-elif-else)
 - Lists and dictionaries
+
+Author:
+Sakshi Bondre
